@@ -1,0 +1,9 @@
+from numpy import *
+import matplotlib.pyplot as plt
+
+
+x = loadtext("output.dat")
+eta = loadtext("output2.dat")
+
+plt.plot(x,eta)
+plt.show()

@@ -1,0 +1,32 @@
+C:\Users\Perito\Documents\UiO\AST5220\src.tar\src\src\time_mod.F90(7) : error 176 - Only INTEGER constants are allowed as a KIND parameter
+C:\Users\Perito\Documents\UiO\AST5220\src.tar\src\src\time_mod.F90(8) : error 176 - Only INTEGER constants are allowed as a KIND parameter
+C:\Users\Perito\Documents\UiO\AST5220\src.tar\src\src\time_mod.F90(9) : error 176 - Only INTEGER constants are allowed as a KIND parameter
+C:\Users\Perito\Documents\UiO\AST5220\src.tar\src\src\time_mod.F90(11) : error 176 - Only INTEGER constants are allowed as a KIND parameter
+C:\Users\Perito\Documents\UiO\AST5220\src.tar\src\src\time_mod.F90(12) : error 176 - Only INTEGER constants are allowed as a KIND parameter
+C:\Users\Perito\Documents\UiO\AST5220\src.tar\src\src\time_mod.F90(13) : error 176 - Only INTEGER constants are allowed as a KIND parameter
+C:\Users\Perito\Documents\UiO\AST5220\src.tar\src\src\time_mod.F90(20) : error 176 - Only INTEGER constants are allowed as a KIND parameter
+C:\Users\Perito\Documents\UiO\AST5220\src.tar\src\src\time_mod.F90(21) : error 176 - Only INTEGER constants are allowed as a KIND parameter
+C:\Users\Perito\Documents\UiO\AST5220\src.tar\src\src\time_mod.F90(59) : error 176 - Only INTEGER constants are allowed as a KIND parameter
+C:\Users\Perito\Documents\UiO\AST5220\src.tar\src\src\time_mod.F90(60) : error 176 - Only INTEGER constants are allowed as a KIND parameter
+C:\Users\Perito\Documents\UiO\AST5220\src.tar\src\src\time_mod.F90(68) : error 176 - Only INTEGER constants are allowed as a KIND parameter
+C:\Users\Perito\Documents\UiO\AST5220\src.tar\src\src\time_mod.F90(69) : error 176 - Only INTEGER constants are allowed as a KIND parameter
+C:\Users\Perito\Documents\UiO\AST5220\src.tar\src\src\time_mod.F90(77) : error 176 - Only INTEGER constants are allowed as a KIND parameter
+C:\Users\Perito\Documents\UiO\AST5220\src.tar\src\src\time_mod.F90(78) : error 176 - Only INTEGER constants are allowed as a KIND parameter
+C:\Users\Perito\Documents\UiO\AST5220\src.tar\src\src\time_mod.F90(86) : error 176 - Only INTEGER constants are allowed as a KIND parameter
+C:\Users\Perito\Documents\UiO\AST5220\src.tar\src\src\time_mod.F90(87) : error 176 - Only INTEGER constants are allowed as a KIND parameter
+C:\Users\Perito\Documents\UiO\AST5220\src.tar\src\src\time_mod.F90(20) : error 176 - Only INTEGER constants are allowed as a KIND parameter
+C:\Users\Perito\Documents\UiO\AST5220\src.tar\src\src\time_mod.F90(21) : error 176 - Only INTEGER constants are allowed as a KIND parameter
+C:\Users\Perito\Documents\UiO\AST5220\src.tar\src\src\time_mod.F90(59) : error 176 - Only INTEGER constants are allowed as a KIND parameter
+C:\Users\Perito\Documents\UiO\AST5220\src.tar\src\src\time_mod.F90(60) : error 176 - Only INTEGER constants are allowed as a KIND parameter
+C:\Users\Perito\Documents\UiO\AST5220\src.tar\src\src\time_mod.F90(56) : warning 537 - The result of FUNCTION GET_H has never been set
+C:\Users\Perito\Documents\UiO\AST5220\src.tar\src\src\time_mod.F90(68) : error 176 - Only INTEGER constants are allowed as a KIND parameter
+C:\Users\Perito\Documents\UiO\AST5220\src.tar\src\src\time_mod.F90(69) : error 176 - Only INTEGER constants are allowed as a KIND parameter
+C:\Users\Perito\Documents\UiO\AST5220\src.tar\src\src\time_mod.F90(65) : warning 537 - The result of FUNCTION GET_H_P has never been set
+C:\Users\Perito\Documents\UiO\AST5220\src.tar\src\src\time_mod.F90(77) : error 176 - Only INTEGER constants are allowed as a KIND parameter
+C:\Users\Perito\Documents\UiO\AST5220\src.tar\src\src\time_mod.F90(78) : error 176 - Only INTEGER constants are allowed as a KIND parameter
+C:\Users\Perito\Documents\UiO\AST5220\src.tar\src\src\time_mod.F90(74) : warning 537 - The result of FUNCTION GET_DH_P has never been set
+C:\Users\Perito\Documents\UiO\AST5220\src.tar\src\src\time_mod.F90(86) : error 176 - Only INTEGER constants are allowed as a KIND parameter
+C:\Users\Perito\Documents\UiO\AST5220\src.tar\src\src\time_mod.F90(87) : error 176 - Only INTEGER constants are allowed as a KIND parameter
+C:\Users\Perito\Documents\UiO\AST5220\src.tar\src\src\time_mod.F90(83) : warning 537 - The result of FUNCTION GET_ETA has never been set
+C:\Users\Perito\Documents\UiO\AST5220\src.tar\src\src\time_mod.F90(8) : error 283 - DP must appear in a type declaration because IMPLICIT NONE has been used
+C:\Users\Perito\Documents\UiO\AST5220\src.tar\src\src\time_mod.F90(7) : error 283 - I4B must appear in a type declaration because IMPLICIT NONE has been used

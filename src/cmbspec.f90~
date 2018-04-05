@@ -1,0 +1,45 @@
+program cmbspec
+  use healpix_types
+  use params
+  use time_mod
+  use rec_mod
+  use evolution_mod
+  implicit none
+  integer i,k,l
+  integer, parameter :: out_unit=20
+  ! Initialize time grids
+  call initialize_time_mod
+
+  call initialize_rec_mod
+
+  call initialize_perturbation_eqns
+  call integrate_perturbation_eqns
+
+  ! Output to file desired quantities here
+
+  
+
+  !open (unit=out_unit,file="results.txt",action="write",status="replace", recl=1024)
+  !do i=1,n_t
+  !   do k=1, n_k
+  !      do l=0,6
+  !         write (out_unit,*) x_t(i), delta(i,k), delta_b(i,k), v(i,k), v_b(i,k), Phi(i,k), Psi(i,k), Theta(i, l, k)
+  !      end do
+  !   end do
+  !end do
+
+  open (unit=out_unit,file="results2.txt",action="write",status="replace")
+  do i=0,n_tot-1
+     
+        
+     write (out_unit,'(*(2X, ES14.6))') dv_b(i,1), dv_b(i,20), dv_b(i,23), dv_b(i,42), dv_b(i,67), dv_b(i,87)
+     
+  end do
+
+  close (out_unit)
+
+
+
+  
+
+end program cmbspec
